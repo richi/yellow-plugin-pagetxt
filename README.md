@@ -19,8 +19,3 @@ How to install?
 3. In your page.txt files insert the keys you want to overwrite .  
 
 To uninstall delete the plugin files.
-
-License
-----------------------
-
-[WTFPL](http://www.wtfpl.net)
