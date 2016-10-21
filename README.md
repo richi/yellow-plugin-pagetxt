@@ -1,5 +1,5 @@
-PageTxt plugin 0.1.1
-=================
+PageTxt plugin 0.1.2
+====================
 
 A plugin for overwriting language.ini entries in pages.txt.
 
@@ -13,9 +13,9 @@ in the meta data section of pages.txt for one of the wikis. The text for the "Wi
 This code might eat all your data or nuke your server. Use at your own risk.
 
 How to install?
-----------------------
-1. Download and install [Yellow](https://github.com/datenstrom/yellow/).  
-2. Download [pagetxt.php](pagetxt.php?raw=true), copy it into your `system/plugins` folder.  
-3. In your page.txt files insert the keys you want to overwrite .  
+---------------
+1. [Download and install Yellow](https://github.com/datenstrom/yellow/).
+2. [Download plugin](https://github.com/richi/yellow-plugin-pagetxt/archive/master.zip). If you are using Safari, right click and select 'Download file as'.
+3. Copy `master.zip` into your `system/plugins` folder.
 
 To uninstall delete the plugin files.
